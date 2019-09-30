@@ -6,6 +6,6 @@ Caso alguém tenha alguma dificuldade, esse projeto pode ajudar quem tá começa
 
 O projeto contém os pacotes instalaos; https://github.com/emersomcarvalho/api-nodejs/blob/master/package.json
 
- # npm / express / mongoose / require-di / nodemon
+ # npm / express / mongoose / require-di / nodemon / Insumia pra testar
  
  Banco de dados usado : MongoDB 
