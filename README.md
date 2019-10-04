@@ -6,7 +6,7 @@ Crud de treinamento Api Rest
 
 * O projeto contém os pacotes instalaos; https://github.com/emersomcarvalho/api-nodejs/blob/master/package.json
 
- ## npm / express / mongoose / require-di / nodemon / Insumia pra testar
+ ## npm / express / mongoose / require-di / nodemon / Insomnia pra testar
  
  * Banco de dados usado : MongoDB 
  
@@ -15,5 +15,5 @@ Crud de treinamento Api Rest
 * $ cd api-nodejs
 ## install the project's dependencies
 * $ npm install
-## watches your files and uses livereload by default run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+## watches your files and uses livereload by default run `npm run dev` for a dev server. Navigate to `http://localhost:3001/`. The app will automatically reload if you change any of the source files.
 
